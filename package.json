@@ -1,0 +1,22 @@
+{
+  "name": "gitkoaInterface",
+  "version": "1.0.0",
+  "description": "Koa 2 example with async",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "wnn",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanaFDSH/koaInterface.git"
+  },
+  "dependencies": {
+    "koa": "2.4.1"
+  }
+}
